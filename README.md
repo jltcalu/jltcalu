@@ -42,7 +42,7 @@ Profesionalmente me gustaría:
 ## 🎶 Pasatiempos
 - 🥁 **Tocar la batería**
   
-- 🛶 Hacer **piragüismo** 
+- 🛶 **Hacer piragüismo** 
   
 - 🥾 **Practicar senderismo**    
 
