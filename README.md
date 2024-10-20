@@ -22,9 +22,14 @@ Soy estudiante de **primer curso de Desarrollo de Aplicaciones Web**, resido en 
 
 ## 🚀 Objetivos
 Profesionalmente me gustaría:
-- Convertirme en **Analista**
-- Especializarme en **Ciberseguridad**
+### 1. Convertirme en **Analista**
+   - **Análisis de Datos**: Mejorar mis habilidades para recopilar, análizar e interpretar datos.
+   - **Visualización de Datos**: Me gustaría poder mejorar mis conocimientos de Power BI para poder hacer presentaciones visuales claras y sencillas.
 
+### 2. Especializarme en **Ciberseguridad**
+   - **Protección de la Información**: Me gustataría aprender a proteger datos y sistemas.
+   - **Defensa ante Amenazas**: Me interesa aprender a evaluar vulnerabilidades y desarrollar estrategias de defensa para mitigar ciberataques.
+     
 ## 📈 Habilidades
 
 - **Lenguajes de programación:** 
