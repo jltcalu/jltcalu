@@ -7,7 +7,7 @@ Aplicaciones Web** en el **Centro Integral de Formación Profesional a
 Distancia "LaConservera"**. En la actualidad tengo mi residencia en **[Cartagena](https://es.wikipedia.org/wiki/Cartagena_(Espa%C3%B1a))**, he tenido la oportunidad de vivir y trabajar en ciudades como **[Málaga](https://es.wikipedia.org/wiki/M%C3%A1laga)** y **[Madrid](https://es.wikipedia.org/wiki/Madrid)**. 
 
 ## 🧑‍🎓 Formación
-### **Desarrollo de Aplicaciones Web**
+### **[Desarrollo de Aplicaciones Web](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)**
   
 ### 📚 Asignaturas del Curso
 
@@ -68,17 +68,19 @@ A lo largo del curso de Desarrollo de Aplicaciones Web, podré familiarizzarme c
 
 ## 📈 Stack Tecnológico Conocido
 
+En los último años he llevado a cabo cursos, pudiendo realizar tareas básicas en las siguientes herramientas:
+
 ### 1. **Lenguajes de programación:** 
-  - JavaScript
-  - HTML
+  - [JavaScript](https://es.wikipedia.org/wiki/JavaScript)
+  - [HTML](https://es.wikipedia.org/wiki/HTML)
 ### 2. **Frameworks:** 
-  - React
+  - [React](https://es.wikipedia.org/wiki/React)
 ### 3. **Bases de datos:** 
-  - MySQL
-  - MongoDB
+  - [MySQL](https://es.wikipedia.org/wiki/MySQL)
+  - [MongoDB](https://es.wikipedia.org/wiki/MongoDB)
 ### 4. **Herramientas:** 
-  - GitHub
-  - Visual Studio Code
+  - [GitHub](https://es.wikipedia.org/wiki/GitHub)
+  - [Visual Studio Code](https://es.wikipedia.org/wiki/Visual_Studio_Code)
 
 ## 🚀 Preferencias Tecnológicas
 
@@ -90,17 +92,15 @@ Profesionalmente me gustaría:
 ### 2. Especializarme en **Ciberseguridad**
    - **Protección de la Información**: Me gustataría aprender a proteger datos y sistemas.
    - **Defensa ante Amenazas**: Me interesa aprender a evaluar vulnerabilidades y desarrollar estrategias de defensa para mitigar ciberataques.
-     
-
 
 ## 🎶 Pasatiempos
-En mi tiempo libre me gusta:
+Dedico gran parte de mi tiempo libre a:
 
-- 🥁 **Tocar la batería**
+### - 🥁 **Tocar la batería**
   
-- 🛶 **Hacer piragüismo** 
+### - 🛶 **Hacer piragüismo** 
   
-- 🥾 **Practicar senderismo**    
+### - 🥾 **Practicar senderismo**    
 
 ## 📫 Conecta conmigo
 
